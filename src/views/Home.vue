@@ -10,7 +10,7 @@
                 <v-card-title>Github Repo Link</v-card-title>
                 <template>
                     <v-btn color="orange lighten-2" target="_blank" text href="https://github.com/mengfong96/ocr-laravel-api">Ocr Laravel API</v-btn>
-                    <v-btn color="orange lighten-2" target="_blank" text href="#">Ocr Laravel UI</v-btn>
+                    <v-btn color="orange lighten-2" target="_blank" text href="https://github.com/mengfong96/ocr-laravel-ui">Ocr Laravel UI</v-btn>
                 </template>
 
                 <v-card-title>OCR Text Converting</v-card-title>
